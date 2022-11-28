@@ -45,3 +45,15 @@ body{
 .text{
     padding: 22px, 10px; 
 }
+
+.conteiner{
+    max-width: 350px;
+    margin: 0 auto;
+}
+.card{
+    background-color: hsl(0, 0%, 100%);
+    padding: 18px;
+    border-radius: 17px;
+    text-align: center;
+    margin: 0 1rem;
+}
